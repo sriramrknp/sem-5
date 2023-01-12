@@ -1,0 +1,1 @@
+#include<stdio.h>intmain(){inta=0,b=0;intsum=a+b;printf(sum);return0;}

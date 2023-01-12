@@ -1,0 +1,15 @@
+#include<stdio.h>
+
+int main()
+{
+
+    cffxfxggxggf
+    // hbibreba
+    /* hbcilwh
+    hbreuv
+    */
+    int a = 0, b=0;
+    int sum = a + b;
+    printf(sum);
+    return 0;
+}

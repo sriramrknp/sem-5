@@ -1,0 +1,19 @@
+#include<stdio.h>
+
+int main()
+{
+    // declaring two numbers
+    int a = 0, b=0;
+    // adding two numbers
+    /* jdhb
+    xvhvchma
+    /* vve
+    hvwd
+    bjdsb
+    uk */ 
+    hsdcygdv
+    uwv */
+    int sum = a + b;
+    printf(sum);
+    return 0;
+}
